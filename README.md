@@ -1,4 +1,33 @@
-## Hi there 👋
+# Hi, I'm Shivansh Sharma 👋
+
+🎓 **Branch:** Computer Science (CORE) 
+📅 **Year:** 1st Year
+
+---
+
+## 🚀 About Me
+
+I am a motivated and curious student with a strong interest in technology and software development. I enjoy learning new concepts and applying them through practical projects.
+
+---
+
+## 🎯 What I Hope to Learn
+
+I aim to build strong skills in programming, problem-solving, and real-world application development. I am especially interested in exploring fields like AI, Machine Learning, and software engineering.
+
+---
+
+## 💻 Skills (Learning)
+
+* **Programming** - C, C++, Python
+* **Data Structures & Algorithms**
+* **Git & GitHub**
+
+---
+
+## 📫 Connect With Me
+
+* **GitHub:** [https://github.com/your-username](https://github.com/your-username)
 
 <!--
 **sharmashivanshh15-creator/sharmashivanshh15-creator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
